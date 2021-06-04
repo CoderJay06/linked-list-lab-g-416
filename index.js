@@ -1,4 +1,3 @@
-
 /*
 let firstNode = {name: 'susie', next: 'rkjasj'}
 let secondNode = {name: 'sam', next: 'asnan'}
@@ -7,7 +6,6 @@ let collection = {rkjasj: secondNode, asnan: lastNode, whana: firstNode}
 let linkedList = 'whana'
 let head = collection[linkedList]
 */
-
 
 // write function to getName, return name of node
 function getName(node) {
